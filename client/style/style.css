@@ -1,0 +1,25 @@
+.collection-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon-red {
+    color: #D80000;
+}
+
+.icon-blue {
+    color: #2196F3;
+}
+
+.material-icons {
+    cursor: pointer;
+}
+
+.btn {
+    background-color: #2196F3;
+}
+
+.vote-box {
+    display: flex;
+    align-items: center;
+}
